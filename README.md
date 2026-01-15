@@ -1,1 +1,17 @@
 # DL-1D-CNN
+This repository contains the official implementation of our paper, "One-Class Network with Directed Statistics Pooling for Spoofing Speech Detection".
+
+## Requirements
+Installing dependencies:
+```
+pip install -r requirements.txt
+```
+
+## Run the training procedure
+Run the `train.py` to train the model on the VPCID dataset:
+```
+python3.8 train.py -o ./results/save_name --gpu 0 --batch_size 128 --num_epochs 100 --case case1
+```
+
+## Citation
+If you find this work useful in your research, please consider citing this paper.
