@@ -1,0 +1,7 @@
+librosa==0.9.1
+mpmath==1.3.0
+numpy==1.19.5
+scikit_learn==1.8.0
+torch==1.10.2+cu113
+torchaudio==0.10.2+cu113
+tqdm==4.64.0
