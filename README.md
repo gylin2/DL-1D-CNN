@@ -1,5 +1,5 @@
 # DL-1D-CNN
-This repository contains the official implementation of our paper, "One-Class Network with Directed Statistics Pooling for Spoofing Speech Detection".
+This repository contains the official implementation of our paper, "VoIP Call Identification via a Dual-Level 1D-CNN with Frame and Utterance Features".
 
 ## Requirements
 Installing dependencies:
